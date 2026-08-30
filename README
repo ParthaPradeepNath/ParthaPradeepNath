@@ -2,15 +2,18 @@ partha@guwahati:~$ whoami
 > Partha Pradeep Nath — deepNath01
 > Full-stack builder • Guwahati, Assam • Here for the git push
 
+
 partha@guwahati:~$ cat about.txt
   shipping clean, fast products with TS + Next.js + Bun
   currently hardening finance + KanPlan for production
+
 
 partha@guwahati:~$ ls --connect
   gh       → github.com/ParthaPradeepNath
   x        → x.com/deep_PN
   linkedin → linkedin.com/in/partha-pradeep-nath
   mail     → parthanath96134@gmail.com
+
 
 partha@guwahati:~$ ls --stack
   core      : TypeScript · JavaScript · Go · Python
@@ -19,7 +22,9 @@ partha@guwahati:~$ ls --stack
   data      : Neon/PG · Prisma · Drizzle · MongoDB · Redis
   tooling   : Bun · Docker · Git · Linux
 
+
 partha@guwahati:~$ ls --projects
+
   $ finance   — personal finance tracker (Next.js, Hono, Drizzle, Neon, Recharts)
               → github.com/ParthaPradeepNath/finance
 
@@ -31,6 +36,7 @@ partha@guwahati:~$ ls --projects
 
   $ clock-ts  — terminal clock, 11 fonts + timer/stopwatch (Bun, Ink)
               → github.com/ParthaPradeepNath/clock-ts
+
 
 partha@guwahati:~$ echo "thanks for stopping by :)"
 > open an issue or DM on X — let's build something useful ☕︎
