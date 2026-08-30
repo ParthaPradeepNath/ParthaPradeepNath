@@ -1,42 +1,45 @@
-partha@guwahati:~$ whoami
-> Partha Pradeep Nath — deepNath01
-> Full-stack builder • Guwahati, Assam • Here for the git push
+# PARTHA PRADEEP NATH <3
+==================
 
+Love turning ideas into working products.
+Currently building useful things for developers and communities.
 
-partha@guwahati:~$ cat about.txt
-  shipping clean, fast products with TS + Next.js + Bun
-  currently hardening finance + KanPlan for production
+---------------
+Connect With Me
 
+» X / Twitter   → https://x.com/deep_PN
+» Portfolio     → https://github.com/ParthaPradeepNath
+» LinkedIn      → https://www.linkedin.com/in/partha-pradeep-nath/
+» Email         → parthanath96134@gmail.com
 
-partha@guwahati:~$ ls --connect
-  gh       → github.com/ParthaPradeepNath
-  x        → x.com/deep_PN
-  linkedin → linkedin.com/in/partha-pradeep-nath
-  mail     → parthanath96134@gmail.com
+--------------
+Skills & Tools
 
+» Backend:      Node.js, Express.js, Hono, Java
+» Frontend:     Next.js, React, TypeScript, Tailwind CSS
+» Databases:    PostgreSQL (Neon), MongoDB, Redis, Prisma
+» DevOps:       Docker, Git, Linux, Bun, Postman
 
-partha@guwahati:~$ ls --stack
-  core      : TypeScript · JavaScript · Go · Python
-  frontend  : Next.js · React · Tailwind · shadcn/ui · Recharts
-  backend   : Node.js · Hono · Express · Better Auth · Clerk
-  data      : Neon/PG · Prisma · Drizzle · MongoDB · Redis
-  tooling   : Bun · Docker · Git · Linux
+-----------------
+Featured Projects
 
+● Finance
+  ✦ Smart finance tracker with charts, CSV import & clean dashboard.
+  ✦ Links: https://github.com/ParthaPradeepNath/finance
 
-partha@guwahati:~$ ls --projects
+● KanPlan
+  ✦ Agile Kanban — workspaces, sprints & drag-n-drop boards.
+  ✦ Links: https://github.com/ParthaPradeepNath/KanPlan
 
-  $ finance   — personal finance tracker (Next.js, Hono, Drizzle, Neon, Recharts)
-              → github.com/ParthaPradeepNath/finance
+● FDS — One Hub
+  ✦ Feedback Management System — collect & analyze feedback.
+  ✦ Links: https://github.com/ParthaPradeepNath/FDS
 
-  $ kanplan   — agile kanban + workspaces + sprints
-              → github.com/ParthaPradeepNath/KanPlan
+● clock-ts
+  ✦ Terminal clock with 11 fonts, timer & stopwatch (Bun + Ink).
+  ✦ Links: https://github.com/ParthaPradeepNath/clock-ts
 
-  $ fds       — One Hub feedback management (MERN, JWT, Chart.js)
-              → github.com/ParthaPradeepNath/FDS
+--------------------------
+Thanks for stopping by! :)
 
-  $ clock-ts  — terminal clock, 11 fonts + timer/stopwatch (Bun, Ink)
-              → github.com/ParthaPradeepNath/clock-ts
-
-
-partha@guwahati:~$ echo "thanks for stopping by :)"
-> open an issue or DM on X — let's build something useful ☕︎
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
