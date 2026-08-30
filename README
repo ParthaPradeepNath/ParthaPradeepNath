@@ -1,49 +1,36 @@
-# PARTHA PRADEEP NATH 
-==================
+partha@guwahati:~$ whoami
+> Partha Pradeep Nath — deepNath01
+> Full-stack builder • Guwahati, Assam • Here for the git push
 
-Love turning ideas into working products.  
-Currently building useful things for developers and communities.
+partha@guwahati:~$ cat about.txt
+  shipping clean, fast products with TS + Next.js + Bun
+  currently hardening finance + KanPlan for production
 
----------------
-Connect With Me
+partha@guwahati:~$ ls --connect
+  gh       → github.com/ParthaPradeepNath
+  x        → x.com/deep_PN
+  linkedin → linkedin.com/in/partha-pradeep-nath
+  mail     → parthanath96134@gmail.com
 
-» X / Twitter   → https://x.com/deep_PN
-» Portfolio     → https://github.com/ParthaPradeepNath
-» LinkedIn      → https://www.linkedin.com/in/partha-pradeep-nath/
-» Email         → parthanath96134@gmail.com
+partha@guwahati:~$ ls --stack
+  core      : TypeScript · JavaScript · Go · Python
+  frontend  : Next.js · React · Tailwind · shadcn/ui · Recharts
+  backend   : Node.js · Hono · Express · Better Auth · Clerk
+  data      : Neon/PG · Prisma · Drizzle · MongoDB · Redis
+  tooling   : Bun · Docker · Git · Linux
 
---------------
-Skills & Tools
+partha@guwahati:~$ ls --projects
+  $ finance   — personal finance tracker (Next.js, Hono, Drizzle, Neon, Recharts)
+              → github.com/ParthaPradeepNath/finance
 
-» Backend:      Node.js, Express.js, Hono
-» Frontend:     Next.js, React, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3
-» Databases:    PostgreSQL (Neon), MongoDB, Redis, Prisma, Drizzle, Supabase
-» DevOps:       Docker, Git, Linux, Postman, Bun
+  $ kanplan   — agile kanban + workspaces + sprints
+              → github.com/ParthaPradeepNath/KanPlan
 
------------------
-Featured Projects
+  $ fds       — One Hub feedback management (MERN, JWT, Chart.js)
+              → github.com/ParthaPradeepNath/FDS
 
-● Finance
-  ✦ Smart finance tracker to manage expenses, budgets & spending habits with real-time charts.
-     Tracks accounts, categories & CSV imports with a clean dashboard experience.
-  ✦ Links: https://github.com/ParthaPradeepNath/finance
+  $ clock-ts  — terminal clock, 11 fonts + timer/stopwatch (Bun, Ink)
+              → github.com/ParthaPradeepNath/clock-ts
 
-● KanPlan
-  ✦ Lightweight Kanban for agile teams — workspaces, projects, sprints & drag-and-drop boards.
-     Supports task creation, Kanban-style boards, calendar & table views with analytics.
-  ✦ Links: https://github.com/ParthaPradeepNath/KanPlan
-
-● FDS — One Hub
-  ✦ Feedback Management System — collect, organize & analyze feedback in one place.
-     Role-based dashboards, rating/category analytics & secure JWT auth for organizations.
-  ✦ Links: https://github.com/ParthaPradeepNath/FDS
-
-● clock-ts
-  ✦ Terminal-based clock with 11 fonts, timer, stopwatch, configurable colors & TUI.
-     Ported from clock-rs to TypeScript/Bun with Ink — fully configurable via JSON & CLI.
-  ✦ Links: https://github.com/ParthaPradeepNath/clock-ts
-
---------------------------
-Thanks for stopping by! :)
-
-Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
+partha@guwahati:~$ echo "thanks for stopping by :)"
+> open an issue or DM on X — let's build something useful ☕︎
