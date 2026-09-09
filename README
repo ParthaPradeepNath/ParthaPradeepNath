@@ -25,19 +25,35 @@ Featured Projects
 
 ● Finance
   ✦ Smart finance tracker with charts, CSV import & clean dashboard.
-  ✦ Links: https://github.com/ParthaPradeepNath/finance
+  ✦ Repo: https://github.com/ParthaPradeepNath/finance
+  ✦ Live: https://finance-ppn.vercel.app
 
 ● KanPlan
   ✦ Agile Kanban — workspaces, sprints & drag-n-drop boards.
-  ✦ Links: https://github.com/ParthaPradeepNath/KanPlan
+  ✦ Repo: https://github.com/ParthaPradeepNath/KanPlan
+  ✦ Live: https://kan-plan-dev.vercel.app
 
 ● FDS — One Hub
   ✦ Feedback Management System — collect & analyze feedback.
-  ✦ Links: https://github.com/ParthaPradeepNath/FDS
+  ✦ Repo: https://github.com/ParthaPradeepNath/FDS
 
 ● clock-ts
   ✦ Terminal clock with 11 fonts, timer & stopwatch (Bun + Ink).
-  ✦ Links: https://github.com/ParthaPradeepNath/clock-ts
+  ✦ Repo: https://github.com/ParthaPradeepNath/clock-ts
+  ✦ npm: https://www.npmjs.com/package/@deepnath/clock-ts
+
+● Realtime_Chat
+  ✦ Real-time chat with Next.js, Elysia & Redis-backed sessions.
+  ✦ Repo: https://github.com/ParthaPradeepNath/Realtime_Chat
+  ✦ Live: https://realtime-chat-gilt.vercel.app/
+
+● NodeBase
+  ✦ Self-hosted workflow automation — connect APIs, no code required.
+  ✦ Repo: https://github.com/ParthaPradeepNath/NodeBase
+
+● JobPortal
+  ✦ Job discovery platform — smart matching, real-time search & recommendations.
+  ✦ Repo: https://github.com/ParthaPradeepNath/JobPortal
 
 --------------------------
 Thanks for stopping by! :)
