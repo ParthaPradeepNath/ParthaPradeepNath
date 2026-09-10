@@ -42,10 +42,10 @@ Featured Projects
   ✦ Repo: https://github.com/ParthaPradeepNath/clock-ts
   ✦ npm: https://www.npmjs.com/package/@deepnath/clock-ts
 
-● Realtime_Chat
+● Echo
   ✦ Real-time chat with Next.js, Elysia & Redis-backed sessions.
-  ✦ Repo: https://github.com/ParthaPradeepNath/Realtime_Chat
-  ✦ Live: https://realtime-chat-gilt.vercel.app/
+  ✦ Repo: https://github.com/ParthaPradeepNath/echo
+  ✦ Live: https://echo-chat-ppn.vercel.app/
 
 ● NodeBase
   ✦ Self-hosted workflow automation — connect APIs, no code required.
